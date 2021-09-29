@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-aguicodes/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/react-aguicodes/static/js/main.721c66ea.chunk.js",
-    "main.js.map": "/react-aguicodes/static/js/main.721c66ea.chunk.js.map",
-    "runtime-main.js": "/react-aguicodes/static/js/runtime-main.6fde1d20.js",
-    "runtime-main.js.map": "/react-aguicodes/static/js/runtime-main.6fde1d20.js.map",
-    "static/js/2.bab21545.chunk.js": "/react-aguicodes/static/js/2.bab21545.chunk.js",
-    "static/js/2.bab21545.chunk.js.map": "/react-aguicodes/static/js/2.bab21545.chunk.js.map",
-    "static/js/3.0950b944.chunk.js": "/react-aguicodes/static/js/3.0950b944.chunk.js",
-    "static/js/3.0950b944.chunk.js.map": "/react-aguicodes/static/js/3.0950b944.chunk.js.map",
+    "main.css": "/react-aguicodes/static/css/main.a617e044.chunk.css",
+    "main.js": "/react-aguicodes/static/js/main.c55e1368.chunk.js",
+    "main.js.map": "/react-aguicodes/static/js/main.c55e1368.chunk.js.map",
+    "runtime-main.js": "/react-aguicodes/static/js/runtime-main.7b5673e3.js",
+    "runtime-main.js.map": "/react-aguicodes/static/js/runtime-main.7b5673e3.js.map",
+    "static/js/2.c7689573.chunk.js": "/react-aguicodes/static/js/2.c7689573.chunk.js",
+    "static/js/2.c7689573.chunk.js.map": "/react-aguicodes/static/js/2.c7689573.chunk.js.map",
+    "static/js/3.896e4e87.chunk.js": "/react-aguicodes/static/js/3.896e4e87.chunk.js",
+    "static/js/3.896e4e87.chunk.js.map": "/react-aguicodes/static/js/3.896e4e87.chunk.js.map",
     "index.html": "/react-aguicodes/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/react-aguicodes/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.bab21545.chunk.js.LICENSE.txt": "/react-aguicodes/static/js/2.bab21545.chunk.js.LICENSE.txt",
+    "static/css/main.a617e044.chunk.css.map": "/react-aguicodes/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.c7689573.chunk.js.LICENSE.txt": "/react-aguicodes/static/js/2.c7689573.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/react-aguicodes/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6fde1d20.js",
-    "static/js/2.bab21545.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.721c66ea.chunk.js"
+    "static/js/runtime-main.7b5673e3.js",
+    "static/js/2.c7689573.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.c55e1368.chunk.js"
   ]
 }
